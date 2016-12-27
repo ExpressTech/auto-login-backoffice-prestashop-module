@@ -8,6 +8,8 @@ Once installed, this module will allow you to create demo links which when click
 
 This module allows you to create multiple demo links (for different demo accounts or demo shops (in case of multi shop)). 
 
+Demo : http://www.expresstech.io/go/demo/auto-login-backoffice-bo/
+
 # Configuration
 Go to module's configuration page and select the shop (if multistore) and Employee account and click Save. You will see an URL generated for that store and employee account. Simply copy the URL and share it.
 
